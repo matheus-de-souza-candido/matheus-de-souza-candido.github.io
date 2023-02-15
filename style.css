@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(138, 198, 208);
+}
+
+.meuNome, .sobreMim {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p strong {
+    color: green;
+}
+
+.aprender {
+    font-size: 23px;
+}
+
+.focado {
+    font-size: 22px;
+}
+
+.dedicado {
+    font-size: 21px;
+}
+
+.determinado {
+    font-size: 20 px;
+}
